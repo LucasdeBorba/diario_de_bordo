@@ -1,0 +1,2 @@
+16/06
+usamos o swagger e o inteliJ, fizemos relatórios de todos os dias do curso.

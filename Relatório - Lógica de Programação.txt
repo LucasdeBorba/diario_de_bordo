@@ -1,0 +1,15 @@
+16/06
+Criado mais uma versão do jogo de adivinhação, pois
+alguns alunos não possuiam o projeto.
+Feito menu e estrutura do jogo utilizando estrutura de decisão (IF..else).
+No jogo o usuário informa um número e o jogo informa se ele acertou ou não.
+
+23/05
+Incrementado lógica do jogo, colocando estrutura de laço de repetição, onde
+o jogador poderia jogar mais de uma vez. Para isso foi utilizado o laço for.
+Baixando o projeto para a Situação de Aprendizagem usando o spring Initializr
+
+06/06
+Aprendido conceitos de US, e investigado sites de API gratuitos para ver a
+documentação e tentar acessar pelo Postman. Baixando projeto modelo para
+usar a biblioteca OpenAI e Swagger para documentação automática.

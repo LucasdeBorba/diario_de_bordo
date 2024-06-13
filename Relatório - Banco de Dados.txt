@@ -1,0 +1,16 @@
+25/04
+Começo da matéria curricular Banco de Dados.
+Apresentação do conceito de Banco de dados.
+Criação de modelo Entidade Relacionamento.
+
+02/05
+Continuação do Banco de dados da situação de aprendizagem,
+onde foi uitilizado a linguagem SQL para construção do banco.
+Utilização dos comandos de insert para inserção de informações
+nas tabelas.
+
+09/05
+Utilizando Engenharia direto do MYSQL para gerar o script
+de criação do banco. Inserido algumas informações utilizando
+o comando Insert. Utilizando o comando Select para ver as informações.
+Salvando as informações no Github.

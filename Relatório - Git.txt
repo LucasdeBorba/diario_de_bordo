@@ -1,0 +1,12 @@
+Dia 04/04 Primeiro dia de aula
+Foi feito um dia de aula com o Kahoot sobre informática básica e dasafios de lógica, apresentação do ambiente escolar
+
+11/04 Segundo dia
+Aprendemos os comandos do git bash
+Comandos:git init, git clone, git add, git commit, git commit -m, git push, git pull, etc.
+criamos a conta no git hub
+
+18/04 Terceiro dia
+Mexemos com outra unidade curricular(Lógica de programação), criamos um projeto Java, fizemos o menu do jogo de adivinhação e colocamos no git hub
+
+25/04 Quarto dia
