@@ -1,0 +1,6 @@
+Dia 20/06
+Excluimos o Repositório "eventos" e criamos outro, e comecaremos a trabalhar com o Java Web
+e adicionamos dependencias no "Sring Initializr"
+colocamos as dependencias no "openapi 3" no intellij
+aplicamos o spring boot no projetp intellij
+Estamos criando as classes para servir de modelo para consuktar as informações
